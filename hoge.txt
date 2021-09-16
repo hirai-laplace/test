@@ -1,3 +1,6 @@
 hiraiで作業しました。
 
 fetchの練習
+
+masterでついか
+
